@@ -42,7 +42,7 @@ a{
 /*.container{
     max-width: 1360px;
     padding: 0 15px;
-    margin: 0 auto;*
+    margin: 0 auto;
 }*/
 .element1 {
     display: flex;
@@ -95,7 +95,7 @@ a{
     margin: 97px 0 10px 120px;
 }
 .element1 .item1 .option3 img{
-    margin: 0 20px;
+    margin: 0 30px;
 }
 .element1 .item1 .option3 p {
     margin: 48px -20px 0;
