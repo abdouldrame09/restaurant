@@ -113,7 +113,8 @@ a{
     font-size: 64px;
     font-weight: 400;
     text-align: center;
-    line-height: 1;
+    line-height: 2;
+    margin-top: 0px;
 }
 .element2 .titre p{
     font-family: Josefin Sans;
